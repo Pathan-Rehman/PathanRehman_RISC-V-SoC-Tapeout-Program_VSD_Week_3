@@ -227,6 +227,7 @@ This step maps all flip-flops in the design to the flip-flop cells defined in th
 ## 7. Technology Mapping and Optimization with ABC
 
 ```bash
+opt
 abc -liberty /home/vsdtapeout/Desktop/labs/Week_2/VLSI/VSDBabySoC/src/lib/sky130_fd_sc_hd__tt_025C_1v80.lib -script +strash;scorr;ifraig;retime{D};strash;dch,-f;map,-M,1{D}
 ```
 
