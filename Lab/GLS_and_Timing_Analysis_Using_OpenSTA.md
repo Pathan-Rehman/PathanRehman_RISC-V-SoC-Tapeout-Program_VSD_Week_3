@@ -453,6 +453,9 @@ read_sdc /data/BabySoC/vsdbabysoc_synthesis.sdc
 report_checks
 ```
 
+<img width="848" height="889" alt="image" src="https://github.com/user-attachments/assets/f18e8dd0-16b2-49b6-829c-f12fca9810a6" />
+
+
 ## ⚠️ Possible Error Alert
 
 You may encounter the following error when running the script:
